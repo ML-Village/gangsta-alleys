@@ -1,10 +1,12 @@
 mod systems {
-    mod actions;
+    mod game;
 }
 
 mod models {
     mod moves;
     mod position;
+    mod player;
+    mod npc;
 }
 
 mod tests {
